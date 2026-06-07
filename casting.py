@@ -1,0 +1,7 @@
+name=input()
+score=int(input())
+department=input()
+print(name)
+print(score/10,"/10")
+print(department)
+ 
